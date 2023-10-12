@@ -1,0 +1,56 @@
+*{
+    font-family: nunito;
+}
+.p-5 img[src*="Logomark2"]{
+    background-color: #84CC16;
+    padding: 22px;
+    border-radius: 30px;
+    box-shadow: 0px 16px 32px 0px rgba(132, 204, 22, 0.25); 
+}
+img[src*="MockUpphone.png"]{
+    
+}
+.p-5 img[src*="Solid"]{
+    background-color: white;
+    padding: 22px;
+    border-radius: 30px;
+    box-shadow: 0px 8px 16px 0px rgba(47, 60, 51, 0.05);  
+
+}
+#span{
+   color: #84CC16; 
+   font-weight: bolder;
+   font-size: 90px;
+   font-style: normal;
+    line-height: 68px;
+    letter-spacing: -1.8px; 
+   
+}
+img[src*="Monotone"]{
+    padding-right: 0.5rem;
+}
+.col-lg-5 h3{
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bolder;
+    line-height: 113%; /* 113.333% */
+}
+.col-lg-5 p{
+    color: var(--osler-gray-60, #647067);
+    /* Paragraph/2xl */
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; /* 38.4px */
+    letter-spacing: -0.24px; 
+}
+.col p{
+    /* Label/md */
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bolder;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    text-transform: uppercase; 
+}
